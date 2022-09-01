@@ -1,5 +1,5 @@
 # UPush-Chat
-A chat service project written in C from a former assignment, titled UPush.
+A chat service project from a former assignment, titled UPush.
 
 Two main structs are implemented: client (klient) and message (melding). A client stores information used when communicating with other clients,
 as well as saving sent messages to them. A message holds the text itself, which is sent as a packet, along with other variables being used for various
